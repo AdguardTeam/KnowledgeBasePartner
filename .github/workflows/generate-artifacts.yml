@@ -21,7 +21,7 @@ jobs:
           version: 9
 
       - name: Generate lockfile
-        run: pnpm install
+        run: pnpm install --no-frozen-lockfile
 
       - name: Fetch favicon placeholder
         run: curl -fsSL "https://raw.githubusercontent.com/AdguardTeam/KnowledgeBase/master/static/img/favicon.ico" -o static/img/favicon.ico
