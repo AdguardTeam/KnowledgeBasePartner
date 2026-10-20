@@ -31,7 +31,7 @@ module.exports = {
       onBrokenMarkdownLinks: 'warn',
     },
   },
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
   trailingSlash: true,
   organizationName: 'AdGuard',
   projectName: 'adguard-partners-kb',
