@@ -3,7 +3,7 @@ title: Updating the Knowledge Base
 sidebar_position: 2
 ---
 
-The goal of AdGuard Partners Knowledge Base is to provide everyone with the most up-to-date information on all kinds of AdGuard-related topics. But things constantly change, and sometimes an article doesn't reflect the current state of things anymore.
+The goal of AdGuard Partner program Knowledge Base is to provide everyone with the most up-to-date information on all kinds of AdGuard-related topics. But things constantly change, and sometimes an article doesn't reflect the current state of things anymore.
 
 This is why we placed all of our KB content on [GitHub](https://github.com/AdguardTeam/KnowledgeBasePartner), and now literally anyone can contribute to it by suggesting edits and translations to existing articles, as well as totally new ones.
 

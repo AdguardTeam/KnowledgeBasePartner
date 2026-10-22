@@ -111,20 +111,11 @@ module.exports = {
       },
       links: [
         {
-          title: 'adguard_partners',
+          title: 'adguard_partner_program',
           items: [
             {
               label: 'official_website',
               href: AG_PARTNER_WEBSITE_URL,
-            },
-          ],
-        },
-        {
-          title: 'support',
-          items: [
-            {
-              label: 'support_center',
-              href: AG_PARTNER_WEBSITE_URL + '/support.html',
             },
           ],
         },

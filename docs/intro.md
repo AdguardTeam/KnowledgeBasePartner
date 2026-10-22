@@ -1,7 +1,7 @@
 ---
-title: AdGuard Partners Overview
+title: Overview
 sidebar_position: 1
 slug: /
 ---
 
-## What is AdGuard Partners?
+## What is AdGuard Partner program?
