@@ -75,16 +75,16 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 
 .footer {
   --ifm-footer-background-color: #3b3f44;
-  --ifm-footer-color: #fff;
-  --ifm-footer-link-color: #fff;
-  --ifm-footer-title-color: #fff;
+  --ifm-footer-color: #ffffff;
+  --ifm-footer-link-color: #ffffff;
+  --ifm-footer-title-color: #ffffff;
 }
 
 [data-theme="dark"] .footer {
   --ifm-footer-background-color: #1c1e22;
-  --ifm-footer-color: #fff;
-  --ifm-footer-title-color: #fff;
-  --ifm-footer-link-color: #fff;
+  --ifm-footer-color: #ffffff;
+  --ifm-footer-title-color: #ffffff;
+  --ifm-footer-link-color: #ffffff;
 }
 
 .footer__links {
@@ -108,13 +108,13 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   line-height: 1.4;
 
   &:hover {
-    color: #fff;
+    color: #ffffff;
   }
 }
 
 html[data-theme='dark'] .footer__link-item {
   &:hover {
-    color: #fff;
+    color: #ffffff;
   }
 }
 
