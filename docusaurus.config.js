@@ -21,8 +21,8 @@ module.exports = {
       removeLegacyPostBuildHeadAttribute: true,
     },
   },
-  title: 'AdGuard Partners',
-  tagline: 'Knowledge Base for AdGuard Partners',
+  title: 'AdGuard Partner program',
+  tagline: 'Knowledge Base for AdGuard Partner program',
   url: url,
   baseUrl: baseUrl,
   onBrokenLinks: 'throw',
@@ -34,7 +34,7 @@ module.exports = {
   favicon: 'img/favicon.svg',
   trailingSlash: true,
   organizationName: 'AdGuard',
-  projectName: 'adguard-partners-kb',
+  projectName: 'adguard-partner-kb',
   themes: ['docusaurus-theme-search-typesense'],
   i18n: {
     defaultLocale: 'en',
@@ -69,7 +69,7 @@ module.exports = {
       hideOnScroll: true,
       title: '',
       logo: {
-        alt: 'AdGuard Partners',
+        alt: 'AdGuard Partner',
         src: 'img/logo.svg',
         srcDark: 'img/logo_dark.svg',
       },
@@ -105,7 +105,7 @@ module.exports = {
     footer: {
       style: 'light',
       logo: {
-        alt: 'AdGuard Partners',
+        alt: 'AdGuard Partner program',
         src: 'img/logo.svg',
         srcDark: 'img/logo_dark.svg',
       },
