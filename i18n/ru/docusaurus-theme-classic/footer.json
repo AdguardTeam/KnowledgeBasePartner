@@ -1,0 +1,18 @@
+{
+  "link.title.adguard_partner_program": {
+    "message": "AdGuard Partner program",
+    "description": "The title of the footer links column with title=adguard_partner_program in the footer"
+  },
+  "link.item.label.official_website": {
+    "message": "Official website",
+    "description": "The label of footer link with label=official_website linking to https://adguardpartner.com"
+  },
+  "copyright": {
+    "message": "© 2009–2026 Adguard Software Ltd.",
+    "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "AdGuard Partner program",
+    "description": "The alt text of footer logo"
+  }
+}
