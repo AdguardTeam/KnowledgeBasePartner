@@ -106,7 +106,7 @@ module.exports = {
       style: 'light',
       logo: {
         alt: 'AdGuard Partner program',
-        src: 'img/logo.svg',
+        src: 'img/logo_dark.svg',
         srcDark: 'img/logo_dark.svg',
       },
       links: [
