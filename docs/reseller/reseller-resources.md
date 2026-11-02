@@ -5,8 +5,6 @@ sidebar_label: Reseller resources
 sidebar_position: 5
 ---
 
-## Resources: materials and tools for selling AdGuard
-
 In *Resources*, you’ll find materials to present AdGuard products in your store and help your customers get started.
 
 ## What you’ll find in Resources

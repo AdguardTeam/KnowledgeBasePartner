@@ -5,8 +5,6 @@ sidebar_label: Platforms and apps
 sidebar_position: 7
 ---
 
-## How tracking works on each platform and app store
-
 AdGuard Ad Blocker and AdGuard VPN work on many platforms. This article explains how installs and purchases are tracked on each of them and which link to use.
 
 ## Which installation links you have

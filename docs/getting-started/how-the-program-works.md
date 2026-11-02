@@ -5,8 +5,6 @@ sidebar_label: How the program works
 sidebar_position: 1
 ---
 
-## How AdGuard affiliates earn: from link to payout
-
 The AdGuard Partner Program has two parts: the affiliate program and the reseller program. In the affiliate program, you promote AdGuard products, and you earn a commission when people you refer buy them.
 
 This article explains the affiliate program. If you want to buy licenses and sell them yourself, see [Affiliate or reseller](/getting-started/affiliate-vs-reseller).

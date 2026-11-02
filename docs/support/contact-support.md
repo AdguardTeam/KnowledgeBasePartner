@@ -5,8 +5,6 @@ sidebar_label: Contact support
 sidebar_position: 2
 ---
 
-## How to contact partner support
-
 The fastest way to reach us is a support ticket in the AdGuard Partner Portal. You can also email us: affiliates and resellers have different addresses.
 
 ## Create a support ticket

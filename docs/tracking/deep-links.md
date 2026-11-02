@@ -5,8 +5,6 @@ sidebar_label: Deep links
 sidebar_position: 2
 ---
 
-## Deep links: send your audience to a specific page
-
 A deep link leads to a specific page, such as the page of AdGuard for Mac, not to the home page. On adguard.com, you can turn any page into an affiliate link: add your partner ID to its address.
 
 ## How to make a deep link

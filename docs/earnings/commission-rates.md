@@ -5,8 +5,6 @@ sidebar_label: Commission rates
 sidebar_position: 1
 ---
 
-## How much you earn: commission rates and tiers
-
 Your commission is a share of our revenue from each sale and renewal. The rate depends on the product and on how much you earned in the previous month. You earn the same rates on new purchases and on renewals.
 
 ## Welcome Boost: your first 30 days

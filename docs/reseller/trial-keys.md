@@ -5,8 +5,6 @@ sidebar_label: Trial keys
 sidebar_position: 7
 ---
 
-## Trial keys: test AdGuard products before you resell them
-
 Before you offer [AdGuard products](/reseller/reseller-products) to your customers, you can test them yourself. We provide free trial keys to resellers for this.
 
 ## How to request trial keys

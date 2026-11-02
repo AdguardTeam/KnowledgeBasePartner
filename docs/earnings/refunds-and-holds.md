@@ -5,8 +5,6 @@ sidebar_label: Refunds and payout holds
 sidebar_position: 4
 ---
 
-## What happens to your commission after a refund or chargeback
-
 You earn commission only on genuine, final sales. If a customer gets their money back, we cancel the commission for that sale. We can also hold payouts while we review an account.
 
 ## When we cancel a commission

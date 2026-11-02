@@ -5,8 +5,6 @@ sidebar_label: Test a postback
 sidebar_position: 4
 ---
 
-## Test your postback before real conversions arrive
-
 Before you [save your postback URL](/postbacks/setup-postback-url), send a test request. We fill your [variables](/postbacks/postback-parameters) with test values, send the request to your server, and show you the response.
 
 ## How to send a test request

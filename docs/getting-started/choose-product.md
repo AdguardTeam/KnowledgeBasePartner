@@ -5,8 +5,6 @@ sidebar_label: Choose a product
 sidebar_position: 8
 ---
 
-## AdGuard Ad Blocker, VPN, or DNS: which one to promote
-
 With one affiliate account, you can promote all three AdGuard products. To get more sales, choose the one that fits your audience best, or combine them.
 
 ## Products at a glance

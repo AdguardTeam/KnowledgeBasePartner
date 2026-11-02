@@ -5,8 +5,6 @@ sidebar_label: License management
 sidebar_position: 3
 ---
 
-## License management: statuses, blocking, and replacements
-
 In *Licenses*, you see every license key [you’ve ordered](/reseller/ordering-licenses): whether it’s activated, when it expires, and which order it came from. You can also block keys there.
 
 ## How to find a license

@@ -5,8 +5,6 @@ sidebar_label: Promo codes
 sidebar_position: 4
 ---
 
-## Promo codes for affiliates: how to get one and how it works
-
 A promo code gives your audience a discount on AdGuard products and credits the sale to you, even if the customer never clicks your link. You request codes in the AdGuard Partner Portal, and each code works for six months.
 
 :::note

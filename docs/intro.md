@@ -6,8 +6,6 @@ sidebar_position: 1
 slug: /
 ---
 
-## Guides for AdGuard Partner Program affiliates and resellers
-
 This knowledge base explains how the AdGuard Partner Program works and how to use the AdGuard Partner Portal. It’s for affiliates, who promote AdGuard and earn commissions, and for resellers, who sell AdGuard licenses to their customers.
 
 ## Sections

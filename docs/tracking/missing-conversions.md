@@ -5,8 +5,6 @@ sidebar_label: Why a sale wasn’t credited
 sidebar_position: 6
 ---
 
-## Sale or install not credited: how to find the reason
-
 If you don’t see a sale or an install you expected in *Affiliate statistics*, go through the checklist below. Most often, the reason is how the customer installed the app or which email address they used.
 
 ## Wait 48 hours first

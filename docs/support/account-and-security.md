@@ -5,8 +5,6 @@ sidebar_label: Account and security
 sidebar_position: 3
 ---
 
-## Account settings: email, password, two-factor authentication
-
 You manage your account in *My profile* in the [AdGuard Partner Portal](/getting-started/partner-portal-overview). There, you can change your email address and password, turn on two-factor authentication, and delete your account.
 
 :::note

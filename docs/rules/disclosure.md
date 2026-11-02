@@ -5,8 +5,6 @@ sidebar_label: Affiliate disclosure
 sidebar_position: 6
 ---
 
-## Affiliate disclosure: tell your audience that you earn a commission
-
 Wherever you post an AdGuard [affiliate link](/tracking/affiliate-links) or [promo code](/tracking/promo-codes), tell your audience that you may earn a commission. It’s required by the Terms and Conditions and by advertising laws in many countries.
 
 ## What a disclosure must do

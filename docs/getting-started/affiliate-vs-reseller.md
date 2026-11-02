@@ -5,8 +5,6 @@ sidebar_label: Affiliate or reseller
 sidebar_position: 2
 ---
 
-## Affiliate or reseller: which AdGuard program fits you
-
 The AdGuard Partner Program has two programs. As an affiliate, you promote AdGuard and earn a commission, while customers buy from us. As a reseller, you buy licenses from us at a discount and sell them to your customers yourself.
 
 ## Affiliate and reseller programs compared

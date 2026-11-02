@@ -5,8 +5,6 @@ sidebar_label: Sign up as an affiliate
 sidebar_position: 3
 ---
 
-## How to sign up for the AdGuard affiliate program
-
 Signing up takes a few minutes. Your account opens as soon as you confirm your email address, and your Welcome Boost starts when you sign up.
 
 :::note

@@ -5,8 +5,6 @@ sidebar_label: Reseller API
 sidebar_position: 8
 ---
 
-## Distributor API: automate license management
-
 The Distributor API lets you [manage AdGuard licenses](/reseller/license-management) from your own systems, without the [Partner Portal](/getting-started/partner-portal-overview). For example, your store can generate a license key automatically when a customer pays, and block it when they ask for a refund.
 
 ## What the API can do

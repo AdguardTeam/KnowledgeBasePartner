@@ -5,8 +5,6 @@ sidebar_label: Coupon and deal websites
 sidebar_position: 4
 ---
 
-## Coupon websites, deals, and cashback: what’s allowed
-
 Promo codes help your audience save, but they can’t be posted just anywhere. Here are the rules for coupon, deal, and cashback websites.
 
 ## What’s prohibited

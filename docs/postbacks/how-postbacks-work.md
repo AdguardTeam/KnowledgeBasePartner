@@ -5,8 +5,6 @@ sidebar_label: How postbacks work
 sidebar_position: 1
 ---
 
-## Postbacks: get conversions in your tracker automatically
-
 A postback is a request that our server sends to your server when a conversion happens: an install, a trial, or a sale. If you use a tracker, such as Keitaro, Binom, Voluum, or RedTrack, postbacks bring your AdGuard conversions into it automatically.
 
 You don’t need postbacks to earn commissions. They’re useful if you buy traffic and want to see which campaigns and ads bring sales.

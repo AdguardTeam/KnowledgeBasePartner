@@ -5,8 +5,6 @@ sidebar_label: Product claims
 sidebar_position: 7
 ---
 
-## Product claims: how to describe AdGuard honestly
-
 Everything you say about AdGuard products must be true, accurate, and something you can back up. Honest content builds trust, and customers who get what they expected are less likely to ask for refunds.
 
 ## Rules for product claims

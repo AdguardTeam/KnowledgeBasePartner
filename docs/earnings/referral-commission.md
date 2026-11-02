@@ -5,8 +5,6 @@ sidebar_label: Referral commission
 sidebar_position: 3
 ---
 
-## Earn 5% of the commission of affiliates you invite
-
 Invite other people to join the AdGuard affiliate program. When they earn commissions, you get 5% of what they earn.
 
 ## How the referral commission works

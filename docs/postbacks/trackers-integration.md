@@ -5,8 +5,6 @@ sidebar_label: Postbacks for trackers
 sidebar_position: 6
 ---
 
-## Postback setup for Keitaro, Binom, Voluum, and RedTrack
-
 Every tracker has its own postback URL format, so below are examples for popular trackers. In each example, replace the domain and keys with your own, and put [our variables](/postbacks/postback-parameters) where the tracker expects the values.
 
 ## Step 1. Pass the click ID in your AdGuard links

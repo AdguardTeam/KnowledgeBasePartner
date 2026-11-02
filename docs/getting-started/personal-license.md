@@ -5,8 +5,6 @@ sidebar_label: Personal license
 sidebar_position: 9
 ---
 
-## Personal license for affiliates: how to request one
-
 AdGuard affiliates can get a free license for personal use, for example, to try a product before writing a review or recording a video. You request it through partner support.
 
 ## How to request a personal license

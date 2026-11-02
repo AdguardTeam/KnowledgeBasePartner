@@ -5,8 +5,6 @@ sidebar_label: How sales are credited
 sidebar_position: 5
 ---
 
-## How we credit sales to affiliates
-
 When a person clicks your affiliate link, we remember it for 365 days. If they install the app or sign up during that time, they’re linked to you. Their purchases and renewals are then credited to you.
 
 ## The 365-day cookie

@@ -5,8 +5,6 @@ sidebar_label: Payout schedule
 sidebar_position: 5
 ---
 
-## When AdGuard affiliate payouts are made
-
 AdGuard sends affiliate payouts once a week, on Thursdays. You request each payout yourself in the AdGuard Partner Portal, and we process it on the next payout day.
 
 :::note

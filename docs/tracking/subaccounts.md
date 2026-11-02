@@ -5,8 +5,6 @@ sidebar_label: Subaccounts
 sidebar_position: 3
 ---
 
-## How to add a subaccount to your affiliate link
-
 A subaccount is a label you add to your [affiliate link](/tracking/affiliate-links) to see which of your channels brings visits, installs, and sales. For example, you can use one subaccount for your YouTube channel and another one for your blog.
 
 ## How subaccounts work

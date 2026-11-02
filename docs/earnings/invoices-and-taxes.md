@@ -5,8 +5,6 @@ sidebar_label: Invoices and taxes
 sidebar_position: 8
 ---
 
-## Invoices for your payouts and taxes on commission
-
 We can prepare an invoice for each of [your payouts](/earnings/payout-schedule), for example, for your accounting. You pay taxes on your commission yourself: AdGuard doesn’t withhold them.
 
 ## What an invoice includes

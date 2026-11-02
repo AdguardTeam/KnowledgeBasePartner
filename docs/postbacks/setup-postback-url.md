@@ -5,8 +5,6 @@ sidebar_label: Set up a postback URL
 sidebar_position: 2
 ---
 
-## Set up your postback URL step by step
-
 A postback URL tells us where to send information about your conversions. You set it up once in *Promo tools*, and then add the click ID to your affiliate links.
 
 :::note

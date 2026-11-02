@@ -5,8 +5,6 @@ sidebar_label: Payout fees and currency
 sidebar_position: 7
 ---
 
-## Fees and currency conversion for affiliate payouts
-
 When we send your payout, the payment system charges a fee. The fee depends on your payout method. The currency matters too: we send most payouts in US dollars, so a balance in euros is converted.
 
 :::note

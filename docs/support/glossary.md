@@ -5,8 +5,6 @@ sidebar_label: Glossary
 sidebar_position: 4
 ---
 
-## Glossary of AdGuard Partner Program terms
-
 Here are the terms you’ll see in the AdGuard Partner Portal and in this knowledge base, in alphabetical order.
 
 ## A–C

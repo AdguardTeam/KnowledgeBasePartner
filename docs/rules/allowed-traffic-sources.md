@@ -5,8 +5,6 @@ sidebar_label: Allowed traffic sources
 sidebar_position: 1
 ---
 
-## Allowed traffic sources: where and how you can promote AdGuard
-
 You can promote AdGuard in many ways. Some of them are allowed right away, and some need our written approval first. Everything else that breaks the rules is listed in [Prohibited practices](/rules/prohibited-practices).
 
 ## Allowed without approval

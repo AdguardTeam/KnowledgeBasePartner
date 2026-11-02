@@ -5,8 +5,6 @@ sidebar_label: Brand bidding
 sidebar_position: 3
 ---
 
-## Paid search rules: no bidding on AdGuard brand names
-
 You can run search ads to [promote AdGuard](/rules/allowed-traffic-sources), but you can’t bid on AdGuard brand names. These rules apply to all search engines and to all platforms with keyword-triggered ads, everywhere and at all times.
 
 ## Protected terms

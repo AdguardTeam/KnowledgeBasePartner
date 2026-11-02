@@ -5,8 +5,6 @@ sidebar_label: Apply as a reseller
 sidebar_position: 4
 ---
 
-## How to become an AdGuard reseller
-
 As a reseller, you buy AdGuard licenses at a discount and sell them to your customers. To join, send us an application: we usually review it within one or two business days.
 
 ## Requirements

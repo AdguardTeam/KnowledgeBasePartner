@@ -5,8 +5,6 @@ sidebar_label: Affiliate links
 sidebar_position: 1
 ---
 
-## Your affiliate links: which one to use and where
-
 Your affiliate links contain your partner ID, so when a person clicks one of them, we know they came from you. You’ll find all your links in *Promo tools* in the AdGuard Partner Portal.
 
 ## Where to find your links

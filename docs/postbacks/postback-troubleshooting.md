@@ -5,8 +5,6 @@ sidebar_label: Postback troubleshooting
 sidebar_position: 5
 ---
 
-## Postback troubleshooting: errors and fixes
-
 When you send a test request in *Check connection*, we show the response from your server and a hint. Messages about the URL template appear in the *Add postback URL* window as you type. Here’s what each message means and how to fix it.
 
 ## Messages about the URL template

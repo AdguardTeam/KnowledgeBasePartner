@@ -5,8 +5,6 @@ sidebar_label: Reseller rules
 sidebar_position: 6
 ---
 
-## Reseller rules: territories, support, and payments
-
 As an AdGuard reseller, you sell our licenses to your customers. Here are the main rules to follow. If you have a distribution agreement with us, it may include additional terms.
 
 ## Sell in your territory

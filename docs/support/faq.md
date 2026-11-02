@@ -5,8 +5,6 @@ sidebar_label: FAQ
 sidebar_position: 1
 ---
 
-## Frequently asked questions about the AdGuard Partner Program
-
 Short answers to the questions partners ask us most often. Each answer links to an article with the details. For the meaning of program terms, see the [Glossary](/support/glossary).
 
 ## Getting started

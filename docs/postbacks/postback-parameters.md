@@ -5,8 +5,6 @@ sidebar_label: Postback parameters
 sidebar_position: 3
 ---
 
-## Postback variables: what we send to your tracker
-
 In your postback URL, you use variables in curly braces, such as `{externalid}`. When a conversion happens, we replace each variable with a real value and send the request to your server.
 
 ## Variables

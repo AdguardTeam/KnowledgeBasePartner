@@ -5,8 +5,6 @@ sidebar_label: Partner Portal overview
 sidebar_position: 5
 ---
 
-## What’s in the AdGuard Partner Portal
-
 The AdGuard Partner Portal is where you manage your participation in the AdGuard Partner Program. Here’s what each section of the left menu does.
 
 <!-- Screenshot: ![Left menu of the AdGuard Partner Portal with Affiliate statistics, Promo tools, Payouts, and Rates](/img/getting-started-partner-portal-overview-menu.webp) -->

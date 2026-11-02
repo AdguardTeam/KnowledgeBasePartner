@@ -5,8 +5,6 @@ sidebar_label: Payout methods
 sidebar_position: 6
 ---
 
-## Payout methods: PayPal, Mellow, crypto, and wire transfer
-
 To get paid, add a payout method in the AdGuard Partner Portal. You can choose PayPal, Mellow, or a crypto wallet yourself, and we can set up a wire transfer for you on request.
 
 :::note

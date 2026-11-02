@@ -5,8 +5,6 @@ sidebar_label: Prepaid vs postpaid
 sidebar_position: 1
 ---
 
-## Prepaid or postpaid: how AdGuard resellers pay
-
 AdGuard resellers pay for licenses in one of two ways. New resellers start with the prepaid model. Large partners with regular sales can switch to the postpaid model.
 
 ## Prepaid and postpaid compared

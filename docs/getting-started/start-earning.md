@@ -5,8 +5,6 @@ sidebar_label: Start earning
 sidebar_position: 7
 ---
 
-## Start earning: what to do after you sign up
-
 You’ve signed up for the AdGuard affiliate program. Here’s what to do next to get your first sales and your first payout.
 
 ## Step 1. Add a payout method

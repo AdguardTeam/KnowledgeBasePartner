@@ -5,8 +5,6 @@ sidebar_label: Affiliate statistics
 sidebar_position: 9
 ---
 
-## Affiliate statistics: visits, installs, sales, and revenue
-
 *Affiliate statistics* shows how your links and promo codes perform: how many people clicked them, installed the app, and bought a product, and how much you earned.
 
 ## How to open your statistics

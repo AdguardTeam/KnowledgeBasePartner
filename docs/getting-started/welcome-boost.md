@@ -5,8 +5,6 @@ sidebar_label: Welcome Boost
 sidebar_position: 6
 ---
 
-## Welcome Boost: top commission rates for your first 30 days
-
 For 30 days after you sign up, you get our top commission rates on every AdGuard product. No minimum volume is required: the boost works from your first sale.
 
 ## Welcome Boost rates

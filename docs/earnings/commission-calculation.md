@@ -5,8 +5,6 @@ sidebar_label: Commission calculation
 sidebar_position: 2
 ---
 
-## How we calculate your commission: VAT, fees, and discounts
-
 Your commission is your rate multiplied by our revenue from the sale. Our revenue is not the full price: we first subtract VAT or other sales tax and the payment system fee.
 
 ## The formula

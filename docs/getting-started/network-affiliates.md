@@ -5,8 +5,6 @@ sidebar_label: Network affiliates
 sidebar_position: 10
 ---
 
-## Affiliate networks: promoting AdGuard through Impact or Admitad
-
 You can join the AdGuard affiliate program in two ways: sign up directly in the AdGuard Partner Portal, or apply through the Impact or Admitad affiliate networks.
 
 ## Direct sign-up and networks compared

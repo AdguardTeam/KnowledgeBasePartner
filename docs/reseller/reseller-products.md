@@ -5,8 +5,6 @@ sidebar_label: Reseller products and discounts
 sidebar_position: 4
 ---
 
-## What you can resell and at what discount
-
 As an [AdGuard reseller](/getting-started/sign-up-reseller), you buy licenses at a discount off the retail price and sell them at your own price. You can resell the whole AdGuard product line or focus on one product.
 
 ## Products you can resell

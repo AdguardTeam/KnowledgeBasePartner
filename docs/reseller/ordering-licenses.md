@@ -5,8 +5,6 @@ sidebar_label: Order licenses
 sidebar_position: 2
 ---
 
-## How to order licenses and pay for them
-
 You order licenses in the Partner Portal, in *Orders and payments*. On the prepaid model, you pay each order before we generate the license keys, and on the postpaid model, the keys are generated right away.
 
 ## How to place an order

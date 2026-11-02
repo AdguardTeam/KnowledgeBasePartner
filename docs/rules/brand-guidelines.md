@@ -5,8 +5,6 @@ sidebar_label: Brand guidelines
 sidebar_position: 5
 ---
 
-## Using the AdGuard name, logos, and promo materials
-
 You can use our name, logos, and promo materials to promote AdGuard. But your website, profiles, and ads must always be clearly yours, not AdGuard’s.
 
 ## Promo materials you can use
