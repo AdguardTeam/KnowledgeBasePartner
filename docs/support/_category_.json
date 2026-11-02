@@ -1,0 +1,10 @@
+{
+  "position": 8,
+  "label": "Help and FAQ",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "support/support"
+  }
+}
