@@ -13,6 +13,8 @@ sidebar_position: 9
 
 In the left menu of the Partner Portal, click *Affiliate statistics*. At the top, you’ll see the totals for the selected period: visits, installations, registrations, and revenue.
 
+<!-- Screenshot: ![Affiliate statistics page with totals, filters, and the report by date](/img/earnings-earnings-reports-overview.webp) -->
+
 ## What each column means
 
 | Column | What it shows |

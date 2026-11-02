@@ -18,6 +18,8 @@ In the left menu of the [Partner Portal](/getting-started/partner-portal-overvie
 - **Media materials:** logos, banners, illustrations, and more.
 - **Redeem page:** for AdGuard Ad Blocker, AdGuard VPN, and AdGuard DNS, a page where customers activate license keys or link them to their account. Click *Copy link to Redeem page*. See [License management](/reseller/license-management).
 
+<!-- Screenshot: ![Resources page with product description, installer, media materials, and the redeem page link](/img/reseller-reseller-resources-page.webp) -->
+
 ## Setup links for mobile devices
 
 A setup link helps your Android and iOS customers set up AdGuard quickly. When they open it on their phone, it configures their license, filters, and settings automatically.

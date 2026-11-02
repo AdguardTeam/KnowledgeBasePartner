@@ -44,6 +44,8 @@ For example, use `youtube`, `blog`, or `review2026`.
 
 1. In *Report by*, select *By subaccount*.
 
+    <!-- Screenshot: ![Affiliate statistics report by subaccount with visits, installations, purchases, and revenue](/img/tracking-subaccounts-report.webp) -->
+
 For each subaccount, you’ll see *Visits*, *Installations*, *Downloads*, *Registrations*, *Purchases*, *Renewals*, and *Revenue*. See [Affiliate statistics](/earnings/earnings-reports).
 
 Sales with [promo codes](/tracking/promo-codes) aren’t tied to a subaccount. You’ll find them under *No subaccount*.

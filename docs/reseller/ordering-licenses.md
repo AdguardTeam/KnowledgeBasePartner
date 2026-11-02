@@ -25,6 +25,8 @@ You order licenses in the Partner Portal, in *Orders and payments*. On the prepa
 
 1. Click *Continue*.
 
+    <!-- Screenshot: ![New order form with product, license type, duration, and quantity fields](/img/reseller-ordering-licenses-new-order.webp) -->
+
 You’ll see the *Order details* with the invoice number.
 
 If your account has a sales territory, you’ll see it in the order form. Sell licenses only in this region. See [Reseller rules](/reseller/reseller-rules).

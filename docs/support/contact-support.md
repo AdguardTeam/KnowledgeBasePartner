@@ -21,6 +21,8 @@ The fastest way to reach us is a support ticket in the AdGuard Partner Portal. Y
 
 1. Click *Send*.
 
+    <!-- Screenshot: ![New ticket form in the Support section with the Summary and Description fields](/img/support-contact-support-new-ticket.webp) -->
+
 You’ll see *Ticket #… created*. We’ll reply in the ticket, and you’ll find all your tickets in *Support*. When your question is solved, you can close the ticket. If you have something to add later, reopen it.
 
 If you can’t create a ticket, email us instead.

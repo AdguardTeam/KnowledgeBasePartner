@@ -19,6 +19,8 @@ In *Licenses*, you see every license key [you’ve ordered](/reseller/ordering-l
 
 At the top, you’ll see license counters by product. Click a number to filter the list.
 
+<!-- Screenshot: ![Licenses page in the AdGuard Partner Portal with key counters and the list of licenses](/img/reseller-license-management-licenses.webp) -->
+
 The list shows the *License key*, *Product*, *Type*, *Status*, *Created*, *Expiry*, *Order #*, and *Comment* of each license. To save the list, click *Export to CSV*.
 
 ## License statuses

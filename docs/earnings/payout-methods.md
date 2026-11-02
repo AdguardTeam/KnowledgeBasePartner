@@ -38,6 +38,8 @@ Payment systems charge their own fees. See [Payout fees and currency](/earnings/
 
 1. Click *Save*.
 
+    <!-- Screenshot: ![Add payout method window with PayPal selected and the PayPal account field](/img/earnings-payout-methods-add-paypal.webp) -->
+
 You’ll see *Payout method added*.
 
 If a PayPal payment shows as unclaimed, accept it in your PayPal account. PayPal returns unclaimed payments after 30 days. If a payment fails, the money goes back to your balance, and you can request it again.
@@ -55,6 +57,8 @@ Mellow is a payment service that pays to bank cards and other methods, such as W
 1. Enter the email address of your Mellow.io account. If you don’t have an account yet, enter the email address you want to use: we’ll create the account for you.
 
 1. Click *Bind account*. By binding your account, you accept the Mellow.io Offer Agreement.
+
+    <!-- Screenshot: ![Mellow.io window with the email field and the Bind account button](/img/earnings-payout-methods-bind-mellow.webp) -->
 
 1. If we created a new Mellow.io account for you, use the link sent to your email address to add your payment details in Mellow.io.
 

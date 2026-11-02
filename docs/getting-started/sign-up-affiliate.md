@@ -32,6 +32,8 @@ Your AdGuard Partner Portal account is separate from the AdGuard account you may
 
 1. Complete the captcha and click *Sign up*.
 
+    <!-- Screenshot: ![Affiliate sign-up form with the username, email, password, and account currency fields](/img/getting-started-sign-up-affiliate-form.webp) -->
+
 1. Open the email we sent you and click the confirmation link.
 
 You’ll see *Email confirmed*. Now you can log in to the Partner Portal.

@@ -46,6 +46,8 @@ Last updated: 14 Oct 2026
 
 1. Click *Request payout*.
 
+    <!-- Screenshot: ![Request payout window with the payout schedule, minimum amounts, and the amount available for withdrawal](/img/earnings-payout-schedule-request-payout.webp) -->
+
 1. Check the amount under *Available for withdrawal* and the account that will receive the money.
 
 1. Click *Send request*.

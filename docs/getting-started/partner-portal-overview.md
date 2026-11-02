@@ -9,6 +9,8 @@ sidebar_position: 5
 
 The AdGuard Partner Portal is where you manage your participation in the AdGuard Partner Program. Here’s what each section of the left menu does.
 
+<!-- Screenshot: ![Left menu of the AdGuard Partner Portal with Affiliate statistics, Promo tools, Payouts, and Rates](/img/getting-started-partner-portal-overview-menu.webp) -->
+
 ## Affiliate statistics
 
 Visits, downloads, installs, purchases, renewals, and your earnings. You can filter the statistics and group them into reports by date, country, subaccount, referral, product, or source. See [Affiliate statistics](/earnings/earnings-reports).

@@ -33,6 +33,8 @@ Before you start, get the postback URL of your tracker or server. For examples, 
 
 1. Below the field, click the variables you want to add. `{aid}` and `{externalid}` are required: without them, we can’t attribute conversions to you. If they’re missing, we add them to the URL automatically. We also recommend `{eventid}`: it helps prevent counting the same conversion twice.
 
+    <!-- Screenshot: ![Add postback URL window with the HTTP method, event types, and postback URL fields](/img/postbacks-setup-postback-url-add-form.webp) -->
+
 1. Click *Check connection* to send a test request. See [How to test a postback](/postbacks/test-postback).
 
 1. Click *Add*.

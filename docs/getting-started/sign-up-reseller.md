@@ -45,6 +45,8 @@ You don’t need to be a registered business. The reseller program is open to co
     - *Language for invoices*
     - *Company address*
 
+    <!-- Screenshot: ![Request reseller status form with company details and target countries for sales](/img/getting-started-sign-up-reseller-form.webp) -->
+
 1. Click *Submit*.
 
 You’ll see *Your reseller application has been submitted*.

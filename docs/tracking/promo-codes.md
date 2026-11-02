@@ -35,6 +35,8 @@ If you mostly promote AdGuard VPN, see the [AdGuard VPN affiliate program](https
 
 1. In the *Promo codes* block, click *Request promo code*.
 
+    <!-- Screenshot: ![Promo codes block in the AdGuard Partner Portal with the Request promo code button](/img/tracking-promo-codes-request-button.webp) -->
+
 1. Select the products you need codes for.
 
 1. In *URL of your website, blog, or social media page*, enter the place where you’ll share the code.
@@ -44,6 +46,8 @@ If you mostly promote AdGuard VPN, see the [AdGuard VPN affiliate program](https
 1. Optional: in *Comment*, suggest the text of your code, such as YOURNAME30. Short codes are easier to remember and type.
 
 1. Click *Send*.
+
+    <!-- Screenshot: ![Request promo code window with product options and campaign description fields](/img/tracking-promo-codes-request-form.webp) -->
 
 You’ll see *Ticket #… created*. Your request becomes a support ticket, and we’ll contact you there to discuss the details. When your code is ready, it appears in *Promo codes*.
 
@@ -58,6 +62,8 @@ Each code you get has its own card in *Promo codes*:
 - *Product*: the product the code applies to. *All products* means the code works for every product.
 - *Usage*: how often the code has been used.
 - A checkout link with your partner ID and code already added. Click *Copy link* to copy it.
+
+<!-- Screenshot: ![Promo code card with start and end dates, discount, product, usage, and Copy link](/img/tracking-promo-codes-code-card.webp) -->
 
 ## How to share your code
 

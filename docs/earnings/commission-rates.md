@@ -50,6 +50,8 @@ For example, if you earned $12,000 in May, from 1 Jun you get 60% for AdGuard Ad
 
 In the left menu of the Partner Portal, click *Rates*. You’ll see the rates for the current month and the table of tiers. During the Welcome Boost, the page shows the date when it ends.
 
+<!-- Screenshot: ![Rates page in the AdGuard Partner Portal with current commission rates and tiers](/img/earnings-commission-rates-rates-page.webp) -->
+
 If the page says *Your commission rates are set manually by the manager*, your rates don’t change automatically. To switch to automatic tiers, [contact partner support](/support/contact-support).
 
 ## What the rate applies to
