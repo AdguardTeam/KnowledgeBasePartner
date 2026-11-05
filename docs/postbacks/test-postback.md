@@ -21,7 +21,7 @@ Before you [save your postback URL](/postbacks/setup-postback-url), send a test 
 
 1. Click *Send test request*.
 
-    <!-- Screenshot: ![Check connection window with the event type, test values, and the Send test request button](/img/postbacks-test-postback-check-connection.webp) -->
+    ![Check connection window with the event type, test values, and the Send test request button](https://cdn.adtidy.org/content/kb/partner/postbacks/postbacks-test-postback-check-connection.png)
 
 You’ll see the response code from your server. If everything works, you’ll see *URL is working*.
 

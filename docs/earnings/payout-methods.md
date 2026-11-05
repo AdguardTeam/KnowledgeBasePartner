@@ -36,7 +36,7 @@ Payment systems charge their own fees. See [Payout fees and currency](/earnings/
 
 1. Click *Save*.
 
-    <!-- Screenshot: ![Add payout method window with PayPal selected and the PayPal account field](/img/earnings-payout-methods-add-paypal.webp) -->
+    ![Add payout method window with PayPal selected and the PayPal account field](https://cdn.adtidy.org/content/kb/partner/earnings/earnings-payout-methods-add-paypal.png)
 
 You’ll see *Payout method added*.
 
@@ -56,7 +56,7 @@ Mellow is a payment service that pays to bank cards and other methods, such as W
 
 1. Click *Bind account*. By binding your account, you accept the Mellow.io Offer Agreement.
 
-    <!-- Screenshot: ![Mellow.io window with the email field and the Bind account button](/img/earnings-payout-methods-bind-mellow.webp) -->
+    ![Mellow.io window with the email field and the Bind account button](https://cdn.adtidy.org/content/kb/partner/earnings/earnings-payout-methods-bind-mellow.png)
 
 1. If we created a new Mellow.io account for you, use the link sent to your email address to add your payment details in Mellow.io.
 

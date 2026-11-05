@@ -11,7 +11,7 @@ sidebar_position: 9
 
 In the left menu of the Partner Portal, click *Affiliate statistics*. At the top, you’ll see the totals for the selected period: visits, installations, registrations, and revenue.
 
-<!-- Screenshot: ![Affiliate statistics page with totals, filters, and the report by date](/img/earnings-earnings-reports-overview.webp) -->
+![Affiliate statistics page with totals, filters, and the report by date](https://cdn.adtidy.org/content/kb/partner/earnings/earnings-earnings-reports-overview.png)
 
 ## What each column means
 

@@ -29,7 +29,7 @@ Share the link with people who may want to promote AdGuard: other bloggers, cont
 
 1. In the left menu of the Partner Portal, click *Affiliate statistics*.
 
-    <!-- Screenshot: ![Affiliate statistics report by referral with usernames, registration dates, and revenue](/img/earnings-referral-commission-report.webp) -->
+    ![Affiliate statistics report by referral with usernames, registration dates, and revenue](https://cdn.adtidy.org/content/kb/partner/earnings/earnings-referral-commission-report.png)
 
 1. In *Report by*, select *By referral*.
 

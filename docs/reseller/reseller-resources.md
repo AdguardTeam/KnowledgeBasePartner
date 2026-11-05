@@ -16,7 +16,7 @@ In the left menu of the [Partner Portal](/getting-started/partner-portal-overvie
 - **Media materials:** logos, banners, illustrations, and more.
 - **Redeem page:** for AdGuard Ad Blocker, AdGuard VPN, and AdGuard DNS, a page where customers activate license keys or link them to their account. Click *Copy link to Redeem page*. See [License management](/reseller/license-management).
 
-<!-- Screenshot: ![Resources page with product description, installer, media materials, and the redeem page link](/img/reseller-reseller-resources-page.webp) -->
+![Resources page with product description, installer, media materials, and the redeem page link](https://cdn.adtidy.org/content/kb/partner/reseller/reseller-reseller-resources-page.png)
 
 ## Setup links for mobile devices
 

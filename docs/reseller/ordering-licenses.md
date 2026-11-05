@@ -23,7 +23,7 @@ You order licenses in the Partner Portal, in *Orders and payments*. On the prepa
 
 1. Click *Continue*.
 
-    <!-- Screenshot: ![New order form with product, license type, duration, and quantity fields](/img/reseller-ordering-licenses-new-order.webp) -->
+    ![New order form with product, license type, duration, and quantity fields](https://cdn.adtidy.org/content/kb/partner/reseller/reseller-ordering-licenses-new-order.png)
 
 You’ll see the *Order details* with the invoice number.
 

@@ -43,7 +43,7 @@ You don’t need to be a registered business. The reseller program is open to co
     - *Language for invoices*
     - *Company address*
 
-    <!-- Screenshot: ![Request reseller status form with company details and target countries for sales](/img/getting-started-sign-up-reseller-form.webp) -->
+    ![Request reseller status form with company details and target countries for sales](https://cdn.adtidy.org/content/kb/partner/getting-started/getting-started-sign-up-reseller-form.png)
 
 1. Click *Submit*.
 

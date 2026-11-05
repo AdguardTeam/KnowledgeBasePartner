@@ -15,7 +15,7 @@ Your affiliate links contain your partner ID, so when a person clicks one of the
 
 1. Click the copy icon next to the link.
 
-    <!-- Screenshot: ![Website links block in Promo tools with AdGuard Ad Blocker, VPN, and DNS links](/img/tracking-affiliate-links-website-links.webp) -->
+    ![Website links block in Promo tools with AdGuard Ad Blocker, VPN, and DNS links](https://cdn.adtidy.org/content/kb/partner/tracking/tracking-affiliate-links-website-links.png)
 
 Your partner ID is the number after `aid=` in website links, or after `/d/` in installation links.
 
