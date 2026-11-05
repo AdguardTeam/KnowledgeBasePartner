@@ -1,0 +1,10 @@
+{
+  "position": 6,
+  "label": "Program rules",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "rules/rules"
+  }
+}

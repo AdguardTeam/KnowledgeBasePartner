@@ -1,0 +1,10 @@
+{
+  "position": 3,
+  "label": "Links and tracking",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "tracking/tracking"
+  }
+}
