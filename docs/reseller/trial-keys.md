@@ -9,7 +9,7 @@ Before you offer [AdGuard products](/reseller/reseller-products) to your custome
 
 ## How to request trial keys
 
-Email us at b2b@adguard.com and include:
+Email us at [b2b@adguard.com](mailto:b2b@adguard.com) and include:
 
 - Your reseller account email address
 - Your reselling plans: where and to whom you plan to sell
@@ -33,7 +33,7 @@ Trial keys are for testing the products yourself. To sell licenses to customers,
 
 ### Can I test AdGuard DNS Enterprise?
 
-Email us at b2b@adguard.com with your project details.
+Email us at [b2b@adguard.com](mailto:b2b@adguard.com) with your project details.
 
 ## Related articles
 

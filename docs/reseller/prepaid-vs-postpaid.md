@@ -35,7 +35,7 @@ The postpaid model is for partners with a signed distribution agreement and a co
 
 To ask about postpaid, email us at [b2b@adguard.com](mailto:b2b@adguard.com).
 
-To resell AdGuard VPN at scale, see the [AdGuard VPN reseller program](https://adguardpartner.com/vpn-reseller-program.html).
+To resell AdGuard VPN at scale, see the [AdGuard VPN reseller program](https://adguardpartner.com/en/vpn-reseller-program.html).
 
 ## If you miss a payment
 

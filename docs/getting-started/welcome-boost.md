@@ -18,7 +18,7 @@ For 30 days after you sign up, you get our top commission rates on every AdGuard
 
 Last updated: 14 Oct 2026
 
-If you mostly promote AdGuard VPN, see the [AdGuard VPN affiliate program](https://adguardpartner.com/vpn-affiliate-program.html) page.
+If you mostly promote AdGuard VPN, see the [AdGuard VPN affiliate program](https://adguardpartner.com/en/vpn-affiliate-program.html) page.
 
 ## When the Welcome Boost starts and ends
 

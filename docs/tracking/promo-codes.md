@@ -25,7 +25,7 @@ A code works only for the plan it was issued for. For example, a standard AdGuar
 
 Last updated: 14 Oct 2026
 
-If you mostly promote AdGuard VPN, see the [AdGuard VPN affiliate program](https://adguardpartner.com/vpn-affiliate-program.html) page for more ideas.
+If you mostly promote AdGuard VPN, see the [AdGuard VPN affiliate program](https://adguardpartner.com/en/vpn-affiliate-program.html) page for more ideas.
 
 ## How to request a promo code
 

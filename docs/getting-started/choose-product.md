@@ -28,7 +28,7 @@ It suits almost any audience, especially tech, gaming, and how-to content. The c
 
 AdGuard VPN encrypts the connection and lets people choose where they want to connect from. One subscription works on several devices at the same time, and the app pairs well with AdGuard Ad Blocker.
 
-It suits audiences interested in privacy, travel, and online security. Subscriptions renew, so you can keep earning on renewals. If you mostly promote AdGuard VPN, see the [AdGuard VPN affiliate program](https://adguardpartner.com/vpn-affiliate-program.html) page.
+It suits audiences interested in privacy, travel, and online security. Subscriptions renew, so you can keep earning on renewals. If you mostly promote AdGuard VPN, see the [AdGuard VPN affiliate program](https://adguardpartner.com/en/vpn-affiliate-program.html) page.
 
 ## AdGuard DNS
 

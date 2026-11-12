@@ -5,7 +5,7 @@ sidebar_label: Prohibited practices
 sidebar_position: 2
 ---
 
-These practices are prohibited in the AdGuard affiliate program. If you use them, we can block your balance, cancel your commissions, and close your account. This list covers the main cases. The full rules are in Sections 6–8 of the [Terms and Conditions](https://adguardpartner.com/terms-and-conditions.html).
+These practices are prohibited in the AdGuard affiliate program. If you use them, we can block your balance, cancel your commissions, and close your account. This list covers the main cases. The full rules are in Sections 6–8 of the [Terms and Conditions](https://adguardpartner.com/en/terms-and-conditions.html).
 
 ## Spam and misleading promotion
 

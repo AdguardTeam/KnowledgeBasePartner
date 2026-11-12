@@ -15,7 +15,7 @@ Your AdGuard Partner Portal account is separate from the AdGuard account you may
 
 ## How to sign up
 
-1. Open the [affiliate sign-up page](https://adguardpartner.com/dashboard/auth/registration/affiliate).
+1. Open the [affiliate sign-up page](https://adguardpartner.com/en/dashboard/auth/registration/affiliate).
 
 1. Fill out the form:
 
@@ -30,13 +30,13 @@ Your AdGuard Partner Portal account is separate from the AdGuard account you may
 
 1. Complete the captcha and click *Sign up*.
 
-    ![Affiliate sign-up form](https://cdn.adtidy.org/content/kb/partner/getting-started/getting-started-sign-up-affiliate-form.png)
+    ![Affiliate sign-up form with the username, email, password, and account currency fields](https://cdn.adtidy.org/content/kb/partner/getting-started/getting-started-sign-up-affiliate-form.png)
 
 1. Open the email we sent you and click the confirmation link.
 
 You’ll see *Email confirmed*. Now you can log in to the Partner Portal.
 
-Before you sign up, read the [Terms and Conditions](https://adguardpartner.com/terms-and-conditions.html). They explain how commissions and payouts work and which promotion methods are allowed.
+Before you sign up, read the [Terms and Conditions](https://adguardpartner.com/en/terms-and-conditions.html). They explain how commissions and payouts work and which promotion methods are allowed.
 
 ## Which currency to choose
 

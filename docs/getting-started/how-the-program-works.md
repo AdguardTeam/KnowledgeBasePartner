@@ -17,7 +17,7 @@ We don’t pay for installs, sign-ups, or clicks, and we don’t offer fixed pay
 
 You can earn up to 70% of our revenue from a sale. For your first 30 days, you get our top rates with the Welcome Boost. After that, your rates depend on your monthly earnings. See [Commission rates](/earnings/commission-rates) and [Welcome Boost](/getting-started/welcome-boost).
 
-If you mostly promote AdGuard VPN, see the [AdGuard VPN affiliate program](https://adguardpartner.com/vpn-affiliate-program.html) page.
+If you mostly promote AdGuard VPN, see the [AdGuard VPN affiliate program](https://adguardpartner.com/en/vpn-affiliate-program.html) page.
 
 ## How it works, step by step
 

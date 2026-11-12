@@ -31,11 +31,11 @@ See [Prepaid vs postpaid](/reseller/prepaid-vs-postpaid).
 
 ## Selling under your own brand
 
-As a reseller, you sell AdGuard products under the AdGuard brand. To offer AdGuard technology under your own brand, you need a technology partnership. Email us at b2b@adguard.com to discuss it. See also [Reseller products and discounts](/reseller/reseller-products).
+As a reseller, you sell AdGuard products under the AdGuard brand. To offer AdGuard technology under your own brand, you need a technology partnership. Email us at [b2b@adguard.com](mailto:b2b@adguard.com) to discuss it. See also [Reseller products and discounts](/reseller/reseller-products).
 
 ## If your access is deactivated
 
-If you see *Your reseller access has been deactivated*, email us at b2b@adguard.com for details.
+If you see *Your reseller access has been deactivated*, email us at [b2b@adguard.com](mailto:b2b@adguard.com) for details.
 
 ## Frequently asked questions
 

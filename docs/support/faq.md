@@ -23,7 +23,7 @@ No. Your account opens as soon as you confirm your email address. Before your fi
 
 ### What commission do you pay?
 
-Up to 70% of our revenue from each sale and renewal, depending on the product and your monthly earnings. For your first 30 days, you get our top rates. See [Commission rates](/earnings/commission-rates). If you mostly promote AdGuard VPN, see the [AdGuard VPN affiliate program](https://adguardpartner.com/vpn-affiliate-program.html).
+Up to 70% of our revenue from each sale and renewal, depending on the product and your monthly earnings. For your first 30 days, you get our top rates. See [Commission rates](/earnings/commission-rates). If you mostly promote AdGuard VPN, see the [AdGuard VPN affiliate program](https://adguardpartner.com/en/vpn-affiliate-program.html).
 
 ### I see clicks and installs but no commission. Do you pay per install?
 
@@ -115,11 +115,11 @@ Yes. Request a personal license in a support ticket. See [Personal license](/get
 
 ### I want to resell AdGuard licenses. What’s the minimum order, and is postpaid possible?
 
-The minimum order is 50 licenses. Postpaid is available to large partners with regular sales. See [Prepaid vs postpaid](/reseller/prepaid-vs-postpaid). To resell AdGuard VPN, see the [AdGuard VPN reseller program](https://adguardpartner.com/vpn-reseller-program.html).
+The minimum order is 50 licenses. Postpaid is available to large partners with regular sales. See [Prepaid vs postpaid](/reseller/prepaid-vs-postpaid). To resell AdGuard VPN, see the [AdGuard VPN reseller program](https://adguardpartner.com/en/vpn-reseller-program.html).
 
 ### Can I sell AdGuard VPN under my own brand?
 
-Not as a reseller. To build AdGuard VPN technology into your own product, see [white-label VPN](https://adguardpartner.com/white-label-vpn.html).
+Not as a reseller. To build AdGuard VPN technology into your own product, see [white-label VPN](https://adguardpartner.com/en/white-label-vpn.html).
 
 ## Still have questions?
 

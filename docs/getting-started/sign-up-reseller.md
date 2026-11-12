@@ -20,7 +20,7 @@ You don’t need to be a registered business. The reseller program is open to co
 
 ## If you’re new to the AdGuard Partner Program
 
-1. Open the [reseller sign-up page](https://adguardpartner.com/dashboard/auth/registration/reseller).
+1. Open the [reseller sign-up page](https://adguardpartner.com/en/dashboard/auth/registration/reseller).
 
 1. Fill out the form:
 

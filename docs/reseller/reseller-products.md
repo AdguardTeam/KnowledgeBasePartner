@@ -14,7 +14,7 @@ As an [AdGuard reseller](/getting-started/sign-up-reseller), you buy licenses at
 - **AdGuard DNS:** AdGuard DNS Personal and AdGuard DNS Team subscriptions
 - **AdGuard Mail:** licenses that differ by term
 
-To resell AdGuard VPN, see the [AdGuard VPN reseller program](https://adguardpartner.com/vpn-reseller-program.html).
+To resell AdGuard VPN, see the [AdGuard VPN reseller program](https://adguardpartner.com/en/vpn-reseller-program.html).
 
 For corporate clients, we can issue a master license key for many devices, such as one key for 10,000 devices. To discuss it, email us at [b2b@adguard.com](mailto:b2b@adguard.com).
 
@@ -57,7 +57,7 @@ You order AdGuard Mail licenses in the [Partner Portal](/getting-started/partner
 
 ## Selling under your own brand
 
-Reselling means selling AdGuard products under the AdGuard brand. If you want to build AdGuard technology into your own branded product, that’s a technology partnership with our SDK. For a VPN, see [white-label VPN](https://adguardpartner.com/white-label-vpn.html).
+Reselling means selling AdGuard products under the AdGuard brand. If you want to build AdGuard technology into your own branded product, that’s a technology partnership with our SDK. For a VPN, see [white-label VPN](https://adguardpartner.com/en/white-label-vpn.html).
 
 ## Frequently asked questions
 

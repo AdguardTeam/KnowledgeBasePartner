@@ -88,12 +88,6 @@ module.exports = {
         {
           type: 'localeDropdown',
           position: 'right',
-          dropdownItemsAfter: [
-            {
-              to: '/miscellaneous/update-kb',
-              label: 'Help Us Translate',
-            },
-          ],
         },
         {
           href: 'https://github.com/AdguardTeam/KnowledgeBasePartner',
