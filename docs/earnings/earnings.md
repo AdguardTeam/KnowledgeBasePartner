@@ -34,7 +34,7 @@ Add PayPal, Mellow, or a USDT crypto wallet in the AdGuard Partner Portal, or as
 
 **[Fees and currency conversion for affiliate payouts](/earnings/payout-fees)**
 
-See which fees PayPal, Mellow, crypto, and wire transfers charge on AdGuard affiliate payouts. Learn what Total and Net mean and how currency is converted
+See which fees apply to AdGuard affiliate payouts via PayPal, Mellow, crypto, and wire transfer. Learn what Total and Net mean and how currency is converted
 
 **[Invoices for your payouts and taxes on commission](/earnings/invoices-and-taxes)**
 

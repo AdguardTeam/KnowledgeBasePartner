@@ -22,7 +22,7 @@ You can have one payout method at a time. Each method has its own minimum payout
 | Crypto wallet | A USDT wallet on the TRON network (TRC20) | USDT |
 | Wire transfer | Your bank details. Our team sets this method up for you | Ask partner support |
 
-Payment systems charge their own fees. See [Payout fees and currency](/earnings/payout-fees).
+Fees depend on your payout method. For example, we charge a 5.5% fee on payouts via Mellow, while crypto payouts are free of charge. See [Payout fees and currency](/earnings/payout-fees).
 
 ## How to add PayPal
 

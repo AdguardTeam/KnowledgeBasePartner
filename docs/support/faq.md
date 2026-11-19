@@ -83,7 +83,7 @@ In *Payouts*, click the pencil icon next to your payout method. See [Payout meth
 
 ### Are there any payout fees?
 
-Yes. Payment systems charge fees that depend on the payout method. See [Payout fees and currency](/earnings/payout-fees).
+It depends on your payout method. We charge a 5.5% fee on payouts via Mellow, while crypto payouts are free of charge. For PayPal, PayPal’s own fees may apply. See [Payout fees and currency](/earnings/payout-fees).
 
 ### Why is my payout on hold, and how long will it last?
 

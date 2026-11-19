@@ -93,7 +93,7 @@ The smallest amount you can request. It depends on your payout method.
 
 ### Net
 
-The amount of a payout after the payment system fee.
+The amount of a payout after fees.
 
 ### Partner ID
 

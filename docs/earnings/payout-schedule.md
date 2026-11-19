@@ -34,7 +34,7 @@ You’ll see the same amounts in the *Request payout* window.
 
 ## Maximum payout through Mellow
 
-Mellow can send up to $10,000 in one payout, including the fee. If your balance is larger, we pay it in several parts. To avoid waiting, request payouts regularly so that your balance doesn’t grow above this limit.
+Mellow can send up to $10,000 in one payout, including the 5.5% fee. If your balance is larger, we pay it in several parts. To avoid waiting, request payouts regularly so that your balance doesn’t grow above this limit.
 
 Last updated: 14 Oct 2026
 
@@ -63,7 +63,7 @@ Commissions from affiliates you invited become available for withdrawal one day 
 
 ## Fees
 
-The payment system charges a fee when it sends your payout. The fee depends on your payout method. You’ll find the amount after fees in the *Net* column in *Payouts*. See [Payout fees and currency](/earnings/payout-fees).
+Fees depend on your payout method. We charge a 5.5% fee on payouts via Mellow, while crypto payouts are free of charge. You’ll find the amount after fees in the *Net* column in *Payouts*. See [Payout fees and currency](/earnings/payout-fees).
 
 ## What can delay a payout
 
